@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ball freemove", "Ball freemove\Ball freemove.csproj", "{30563885-9718-4143-A0D1-70AF3D510FDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30563885-9718-4143-A0D1-70AF3D510FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30563885-9718-4143-A0D1-70AF3D510FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30563885-9718-4143-A0D1-70AF3D510FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30563885-9718-4143-A0D1-70AF3D510FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBB5A3B8-81BE-4A71-8274-F15E12A49D0C}
+	EndGlobalSection
+EndGlobal
