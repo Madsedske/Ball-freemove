@@ -26,7 +26,7 @@ namespace Ball_freemove
         private void mainGameTimerEvent(object sender, EventArgs e)
         {
             pictureBoxBall.Left += ballx;
-            pictureBoxBall.Top += bally;
+            pictureBoxBall.Top += bally; 
 
             if (pictureBoxBall.Bounds.IntersectsWith(pictureBoxYdre1.Bounds))
                 bally = -bally;
